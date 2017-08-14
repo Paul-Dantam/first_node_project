@@ -1,3 +1,1 @@
-require("./app");
-
-console.log("moment"());
+require("./moment/app.js");
