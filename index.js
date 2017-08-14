@@ -1,4 +1,1 @@
-require("./app.js");
-
-const chalk = require("chalk");
-var moment = require("moment");
+require("./moment/app.js");
